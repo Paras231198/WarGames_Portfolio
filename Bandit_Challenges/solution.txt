@@ -1,0 +1,15 @@
+Solution for Bandit Challenge 0:
+
+1. Connect to the Bandit server using SSH:
+    ```
+    ssh bandit0@bandit.labs.overthewire.org -p 2220
+    ```
+2. Enter the password for the current level when prompted (usually "bandit0").
+3. Once logged in, navigate to the home directory.
+4. Read the contents of the file 'readme' using the command:
+    ```
+    cat readme
+    ```
+5. Retrieve the password for the next level.
+
+Password for Bandit Challenge 1: boJ9jbbUNNfktd78OOpsqOltutMc3MY1
