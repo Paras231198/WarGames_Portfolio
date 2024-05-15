@@ -1,0 +1,7 @@
+Solution for Natas Challenge 0:
+
+1. Visit the provided URL in a web browser.
+2. Log in using the provided credentials (usually "natas0" with password "natas0").
+3. Once logged in, navigate to the page source or inspect element to find the password for the next level.
+
+Password for Natas Challenge 1: gtVrDuiDfck831PqWsLEZy5gyDz1clto
